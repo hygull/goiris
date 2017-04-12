@@ -15,7 +15,8 @@ This project is developed for implementation of mobile APIs. This project uses G
 ## (1) Request
 http://127.0.0.1:8080/api/v1/postoffices/ 
 
-## Response
+### Response
+<pre>
 [
   {
     "pincode": 95221,
@@ -36,14 +37,17 @@ http://127.0.0.1:8080/api/v1/postoffices/
     "district": "Central Delhi"
   },
 ]
+</pre>
 ---
-## (2) Request
+### (2) Request
 http://127.0.0.1:8080/api/v1/postoffices/95221
 
-##Response
+### Response
+<pre>
 {
   "pincode": 95221,
   "city": "Bilaspur",
   "state": "Himachal Pradesh",
   "district": "Bilaspur"
 }
+</pre>
