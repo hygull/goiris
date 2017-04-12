@@ -1,0 +1,16 @@
+1.		deactivate or delete     :		deactivate 	(solved)
+
+2.      /* To get users medias, routers.go, only profile pic & rprofile video is there */
+		iris.Post("/v1/users/medias", controllers.MediasOfUsers);
+
+		OR
+
+		iris.Post("/v1/user/medias", controllers.MediasOfAUser)
+
+3.		Spam a post (not now...)
+
+4. 		Edit or Update 
+
+5.   	AMAZON S3 media upload (We have to change the endpoint to .... media/upload)
+
+6.		City offer (new, update etc...)
