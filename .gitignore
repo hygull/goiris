@@ -6,6 +6,7 @@ goiris
 *.exe
 .DS_Store
 main
+.git2
 # Folders
 _obj
 _test
