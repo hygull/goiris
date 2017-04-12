@@ -2,7 +2,10 @@
 *.o
 *.a
 *.so
-
+goiris
+*.exe
+.DS_Store
+main
 # Folders
 _obj
 _test
