@@ -1,4 +1,0 @@
-0000000000000000000000000000000000000000 cd00320a5c544a86e1cbf8e052c16a7619f62655 Rishikesh Agrawani <rishikesh.pythonex.1729@gmail.com> 1478078615 +0530	commit (initial): started a project for RESTFUL API development using fastest Go web framework named 'iris'
-cd00320a5c544a86e1cbf8e052c16a7619f62655 8c298ed3197a33b1b997df9ee75472b74c84c55c Rishikesh Agrawani <rishikesh.pythonex.1729@gmail.com> 1478099954 +0530	commit: created routes for users, posts and medias
-8c298ed3197a33b1b997df9ee75472b74c84c55c e9734b3e4bf08174fe200756851b5bc7e14c7572 Rishikesh Agrawani <rishikesh.pythonex.1729@gmail.com> 1478511921 +0530	commit: defined a function for sending feedbacks
-e9734b3e4bf08174fe200756851b5bc7e14c7572 15a1f06ae2f17fde3489a3ce25fe5f7d1d4b3b59 Rishikesh Agrawani <rishikesh.pythonex.1729@gmail.com> 1478520935 +0530	commit: send_feedback.go modified,added user existance checking code
